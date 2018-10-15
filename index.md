@@ -7,5 +7,5 @@
 <p><em><strong>2.</strong></em><em>SET WALLPAPER HINT</em>&nbsp;: This permission allows to Set Your Phone background.</p>
 <p>&nbsp;</p>
 <p><strong>Contact Us</strong></p>
-<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me at holuong0211@gmail.com.</p>
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact me at appsolutelystudio@gmail.com.</p>
 <pre>&copy; 2018 All Rights Reserved.</pre>
